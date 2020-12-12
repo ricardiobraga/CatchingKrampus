@@ -1,0 +1,26 @@
+Scripts:
+[X] movements
+[] save score
+Enemy:
+[X] adaptive moviment
+[X]  follow point
+[X] Ajustar distancia mínima e maxima para movimentação
+
+Mecanica:
+[X] fase procesural
+
+
+Graphcs
+[] Player
+[] Kramppus
+[] Map
+
+Menu:
+[] initial screem
+[] UI
+[] Final screem
+
+
+
+
+
